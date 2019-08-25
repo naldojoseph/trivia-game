@@ -1,0 +1,45 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    position: relative;
+    background: url("../images/shrek.jpg");
+    background-size: 300px;
+}
+
+h1 {
+
+    margin: 35px 0 0 0;
+    text-align: center;
+    font-size: 60px;
+    line-height: 69px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #0d9419;
+}
+
+.container {
+
+    text-align: center;
+    margin: 0 15%;
+    padding: 30px;
+    background: #eede4a
+}
+
+.main-content {
+
+    padding: 5% 0;
+}
+
+.btn {
+
+    padding: 15px 75px;
+    font-size: 20px;
+    background: #a5529e;
+    border: 2px solid #000ecf;
+}
+.btn:hover {
+    background-color: #ebbde7
+}
